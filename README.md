@@ -1,4 +1,4 @@
 # LGMVIP-Web-Task-1
-To Do List web app
+<h1>To Do List web app</h1>
 
-deploy link : https://omkarvelonde.github.io/LGMVIP-Web-Task-1/
+link : https://omkarvelonde.github.io/LGMVIP-Web-Task-1/
